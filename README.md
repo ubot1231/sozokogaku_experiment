@@ -1,4 +1,5 @@
-# Source Code of Arduino.共同作業(Github)．
+# 共同作業(Github)．
+Source Code of Arduino.
 ### フローチャート
 ![path176](https://user-images.githubusercontent.com/56528849/137180082-f6ab4789-994a-41db-a7a6-da8af1a026ba.png)
 
