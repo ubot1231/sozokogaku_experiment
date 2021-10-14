@@ -1,5 +1,5 @@
 # sozokogaku_experiment
-Source Code of Arduino.
+Source Code of Arduino. Git共同作業．
 ### フローチャート
 ![path176](https://user-images.githubusercontent.com/56528849/137180082-f6ab4789-994a-41db-a7a6-da8af1a026ba.png)
 
